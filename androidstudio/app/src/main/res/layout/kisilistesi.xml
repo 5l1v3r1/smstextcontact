@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tablom"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/txt_isim_soyisim"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/addmemberrehber"
+            android:text=""
+            android:textColor="@color/siyah" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:text=""
+            android:textColor="@color/siyah" />
+
+        <TextView
+            android:id="@+id/txt_numara"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text=""
+            android:textColor="@color/siyah" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:text=""
+            android:textColor="@color/siyah" />
+
+        <TextView
+            android:id="@+id/txt_sorgulama_tarihi"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text=""
+            android:textColor="@color/siyah" />
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Number Search</string>
+    <string name="action_settings">Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="servisurl">http://tools.ihalehaberi.net</string>
+    <string name="FileUrl">http://tools.ihalehaberi.net/FileTransfer.aspx</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Number Search</item>
+        <item>Who has my number?</item>
+        <item>Bulk Send Sms</item>
+        <item>Diary</item>
+        <item>Chat</item>
+        <item>Profile</item>
+        <item>Backup</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="textnumarasorgulama">Number Search</string>
+    <string name="textnumaramkimlerdevar">Who has my number</string>
+    <string name="textyapilacaklarim">Diary</string>
+    <string name="textsohbet">Chat</string>
+    <string name="textsmsicerigi">Sms Content</string>
+    <string name="texttoplusms">Bulk Send Sms</string>
+    <string name="textbilgilerim">Profile</string>
+    <string name="textyedekleme">Backup</string>
+    <string name="textnumaraniz">Your Phone Number</string>
+    <string name="texttelefenno">Phone Number</string>
+    <string name="textsorgula">Search</string>
+    <string name="Sorgulama">Inquiry</string>
+    <string name="SorgulamaSonucundaHenuzKayitBulunamadi">As a result of questioning Yet no records found. \n Please check Again Later Inclusion.</string>
+    <string name="Tamam">Ok</string>
+    <string name="Iptal">Cancel</string>
+    <string name="Evet">Yes</string>
+    <string name="Hayir">No</string>
+    <string name="Yukleniyor">Loading</string>
+    <string name="NumaranizSorgulaniyor">Querying Your Number</string>
+    <string name="KisiEkleme">Adding A Contact</string>
+    <string name="KisiRehbereEklendi">Contact To The Contacts List Is Added.</string>
+    <string name="KisiRehbereEklenemedi">People Unable To Add To The Contacts List.</string>
+    <string name="KisiyiRehbereEklemekIsterMisiniz">Do You Want To Add To Your Contacts The Person?</string>
+    <string name="NumaraSorgulamaServisi">Number Inquiry Service</string>
+    <string name="NumaraSorgulaniyor">The Number Being Questioned</string>
+    <string name="OzellikKullanimdaDegil">Property Is Not In Use Yet.\n The New Versions In The Future.</string>
+    <string name="Sistem">System</string>
+    <string name="Yedekle">Back up Contacts</string>
+    <string name="GeriYukle">Restore Contacts</string>
+    <string name="CagriGecmisi">Call History</string>
+    <string name="SmsGecmisi">Sms History</string>
+    <string name="Sorgulanan">Queried</string>
+    <string name="SmsGonderildi">Sent Sms</string>
+    <string name="SmsGonderilemedi">SMS Was Not Sent</string>
+    <string name="Uyari">Warning</string>
+    <string name="NumaraDahaOncedenDogrulanmis">Number Previously Verified</string>
+    <string name="OncelikleNumaraniziDogrulayiniz">First Of All, Verify Your Phone Number</string>
+    <string name="NumaraDogrulaniyor">Validating Numbers</string>
+    <string name="Dogrulama">Validation</string>
+    <string name="NumaranizDogrulanamadi">Your Number Could Not Be Verified</string>
+    <string name="NumaranizDogrulandi">Number Verified</string>
+    <string name="SizeKendiHesabinizdanDogrulamaIcinSmsGonderilecek">You Will Be Sent An Sms To Your Own Account Validation? Do You Approve?</string>
+    <string name="DisplayName">Display Name</string>
+    <string name="NickName">Nick Name</string>
+    <string name="HomePhone">Home Phone</string>
+    <string name="MobilePhone">Mobile Phone</string>
+    <string name="WorkPhone">Work Phone</string>
+    <string name="HomeEmail">Home Email</string>
+    <string name="WorkEmail">Work Email</string>
+    <string name="CompanyName">Company Name</string>
+    <string name="JobTitle">Job Title</string>
+    <string name="ProfilePhoto">Profil Phote</string>
+    <string name="KisilerinizYedeklenecekOnayliyorMusunuz">Your Contacts Will Be Backed Up. Do You Approve?</string>
+    <string name="DogumGunu">Birthday</string>
+    <string name="YilDonumu">Anniversary</string>
+    <string name="OzelTarih">Custom Date</string>
+    <string name="KisilerinizYedekleniyor">Backing Up Your Contacts</string>
+    <string name="EklerkenBasinaEkle">When Adding Per ... Add</string>
+    <string name="YedeklerSorgulaniyor">Querying Backups</string>
+    <string name="KisilerinizGeriYuklenecekOnayliyorMusunuz">Do You Approve To Be Loaded Back To Your Contacts?</string>
+    <string name="YedeklerGeriYukleniyor">Restoring Backups</string>
+    <string name="LutfenYedekSeciniz">Please Select A Backup</string>
+    <string name="Basarili">Succesful</string>
+    <string name="Basarisiz">Failed</string>
+    <string name="NumaraPaylasimKulubu">Number Sharing Club</string>
+    <string name="BulamadigimNumaralarIcinArkaPlandaKontrolEt">When I Could not Find Numbers For The Background When Added To The Check</string>
+    <string name="BilgilerKaydedilsinMi">Information To Save You?</string>
+    <string name="BilgilerBasariylaKaydedildi">The Information Has Been Saved Successfully</string>
+    <string name="InternetBaglantiniziAciniz">Please Open Your Connection Internet</string>
+
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Numara Sorgulama</string>
+    <string name="action_settings">Menü</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="servisurl">http://tools.ihalehaberi.net</string>
+    <string name="FileUrl">http://tools.ihalehaberi.net/FileTransfer.aspx</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Ana Sayfa</item>
+        <item>Numara Sorgulama</item>
+        <item>Numaram Kimlerde Var?</item>
+        <item>Toplu Mesaj Gonder</item>
+        <item>Yapılacaklarım</item>
+        <item>Sohbet</item>
+        <item>Bilgilerim</item>
+        <item>Yedekleme</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="textnumarasorgulama">Numara Sorgulama</string>
+    <string name="textnumaramkimlerdevar">Numaram Kimlerde Var</string>
+    <string name="textyapilacaklarim">Ajanda</string>
+    <string name="textsohbet">Sohbet</string>
+    <string name="texttoplusms">Toplu Sms Gönder</string>
+    <string name="textbilgilerim">Bilgilerim</string>
+    <string name="textyedekleme">Yedekleme</string>
+    <string name="textnumaraniz">Numaranız</string>
+    <string name="textsmsicerigi">Sms İçeriği</string>
+    <string name="texttelefenno">Telefon No</string>
+    <string name="textsorgula">Sorgula</string>
+    <string name="Sorgulama">Sorgulama</string>
+    <string name="SorgulamaSonucundaHenuzKayitBulunamadi">Sorgulama Sonucunda Henüz Kayıt Bulunamadı.\n İlerleyen Süreçlerde Tekrar Kontrol Ediniz.</string>
+    <string name="Tamam">Tamam</string>
+    <string name="Iptal">İptal</string>
+    <string name="Evet">Evet</string>
+    <string name="Hayir">Hayır</string>
+    <string name="Yukleniyor">Yükleniyor</string>
+    <string name="Sistem">Sistem</string>
+    <string name="NumaranizSorgulaniyor">Numaranız Sorgulanıyor</string>
+    <string name="KisiEkleme">Kişi Ekleme</string>
+    <string name="KisiRehbereEklendi">Kişi Rehberinize Eklendi.</string>
+    <string name="KisiRehbereEklenemedi">Kişi Rehberinize Eklenemedi.</string>
+    <string name="KisiyiRehbereEklemekIsterMisiniz">Kişiyi Rehberinize Eklemek İster Misiniz?</string>
+    <string name="NumaraSorgulamaServisi">Numara Sorgulama Servisi</string>
+    <string name="NumaraSorgulaniyor">Numara Sorgulanıyor</string>
+    <string name="OzellikKullanimdaDegil">Özellik Kullanımda Değil.\n Yeni Sürümlerle Gelecek</string>
+    <string name="Yedekle">Kişileri yedekle</string>
+    <string name="GeriYukle">Kişileri Geri Yükle</string>
+    <string name="CagriGecmisi">Çağrı Geçmişi</string>
+    <string name="SmsGecmisi">Sms Geçmişi</string>
+    <string name="Sorgulanan">Sorgulanan</string>
+    <string name="SmsGonderildi">Sms Gönderildi</string>
+    <string name="SmsGonderilemedi">SMS Gönderilemedi</string>
+    <string name="Uyari">Uyarı</string>
+    <string name="NumaraDahaOncedenDogrulanmis">Numara Daha Önceden Doğrulanmış</string>
+    <string name="OncelikleNumaraniziDogrulayiniz">Öncelikle Numaranızı Doğrulayınız</string>
+    <string name="NumaraDogrulaniyor">Numara Doğrulanıyor</string>
+    <string name="Dogrulama">Doğrulama</string>
+    <string name="NumaranizDogrulanamadi">Numaranız Doğrulanamadı</string>
+    <string name="NumaranizDogrulandi">Numaranız Doğrulandı</string>
+    <string name="SizeKendiHesabinizdanDogrulamaIcinSmsGonderilecek">Size Kendi Hesabınızdan Doğrulama İçin Sms Gönderilecek? Onaylıyor Musunuz?</string>
+    <string name="DisplayName">İsim</string>
+    <string name="NickName">Nick İsmi</string>
+    <string name="HomePhone">Ev Telefonu</string>
+    <string name="MobilePhone">Mobil Telefonu</string>
+    <string name="WorkPhone">İş Telefonu</string>
+    <string name="HomeEmail">Ev Email</string>
+    <string name="WorkEmail">İş Email</string>
+    <string name="CompanyName">Firma İsmi</string>
+    <string name="JobTitle">İş Ünvanı</string>
+    <string name="ProfilePhoto">Profil Fotoğrafı</string>
+    <string name="KisilerinizYedeklenecekOnayliyorMusunuz">Kişileriniz Yedeklenecek. Onaylıyor Musunuz?</string>
+    <string name="DogumGunu">Doğum Günü</string>
+    <string name="YilDonumu">Yıl Dönümü</string>
+    <string name="OzelTarih">Özel Tarih</string>
+    <string name="KisilerinizYedekleniyor">Kişileriniz Yedekleniyor</string>
+    <string name="EklerkenBasinaEkle">Eklerken Başına ... Ekle</string>
+    <string name="YedeklerSorgulaniyor">Yedekler Sorgulanıyor</string>
+    <string name="KisilerinizGeriYuklenecekOnayliyorMusunuz">Kişileriniz Geri Yüklenecek Onaylıyor Musunuz?</string>
+    <string name="YedeklerGeriYukleniyor">Yedekler Geri Yükleniyor</string>
+    <string name="LutfenYedekSeciniz">Lütfen Yedek Seçiniz</string>
+    <string name="Basarili">Başarılı</string>
+    <string name="Basarisiz">Başarısız</string>
+    <string name="NumaraPaylasimKulubu">Numara Paylaşım Kulubü</string>
+    <string name="BulamadigimNumaralarIcinArkaPlandaKontrolEt">Bulamadığım Numaralar İçin Arka Planda Eklendiğinde Kontrol Et</string>
+    <string name="BilgilerKaydedilsinMi">Bilgiler Kaydedilsin Mi?</string>
+    <string name="BilgilerBasariylaKaydedildi">Bilgiler Başarıyla Kaydedildi</string>
+    <string name="InternetBaglantiniziAciniz">Lütfen İnternet Bağlantınızı Açınız</string>
+
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">查詢電話</string>
+    <string name="action_settings">菜單</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="servisurl">http://tools.ihalehaberi.net</string>
+    <string name="FileUrl">http://tools.ihalehaberi.net/FileTransfer.aspx</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>主頁</item>
+        <item>查詢電話</item>
+        <item>有對誰的數字？</item>
+        <item>公共聯繫賣家</item>
+        <item>什麼你做</item>
+        <item>聊</item>
+        <item>信息</item>
+        <item>備份</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+        <item>@drawable/next</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="textnumarasorgulama">查詢電話</string>
+    <string name="textnumaramkimlerdevar">有在數量誰</string>
+    <string name="textyapilacaklarim">歷</string>
+    <string name="textsohbet">聊</string>
+    <string name="texttoplusms">發送短信群發</string>
+    <string name="textbilgilerim">信息</string>
+    <string name="textyedekleme">備份</string>
+    <string name="textnumaraniz">您的號碼</string>
+    <string name="textsmsicerigi">短信內容</string>
+    <string name="texttelefenno">電話號碼</string>
+    <string name="textsorgula">查詢</string>
+    <string name="Sorgulama">提問</string>
+    <string name="SorgulamaSonucundaHenuzKayitBulunamadi">沒有找到記錄訊問的結果\n 在接下來的過程控制M重新做到了。</string>
+    <string name="Tamam">好了</string>
+    <string name="Iptal">撤消</string>
+    <string name="Evet">對</string>
+    <string name="Hayir">否</string>
+    <string name="Yukleniyor">載入中</string>
+    <string name="Sistem">制</string>
+    <string name="NumaranizSorgulaniyor">您的號碼被質疑</string>
+    <string name="KisiEkleme">添加聯繫人</string>
+    <string name="KisiRehbereEklendi">人目錄已被添加。</string>
+    <string name="KisiRehbereEklenemedi">人們無法添加到您的聯繫人。</string>
+    <string name="KisiyiRehbereEklemekIsterMisiniz">是否一個聯繫人添加到自己的書？</string>
+    <string name="NumaraSorgulamaServisi">號碼查詢服務</string>
+    <string name="NumaraSorgulaniyor">數質疑</string>
+    <string name="OzellikKullanimdaDegil">不使用該功能。\n 未來新版本</string>
+    <string name="Yedekle">備份通訊錄</string>
+    <string name="GeriYukle">人們恢復</string>
+    <string name="CagriGecmisi">通話記錄</string>
+    <string name="SmsGecmisi">短信歷史記錄</string>
+    <string name="Sorgulanan">查詢</string>
+    <string name="SmsGonderildi">短信發送</string>
+    <string name="SmsGonderilemedi">SMS無法發送</string>
+    <string name="Uyari">Uyarı</string>
+    <string name="NumaraDahaOncedenDogrulanmis">號碼先前驗證</string>
+    <string name="OncelikleNumaraniziDogrulayiniz">首先，檢查你的電話號碼</string>
+    <string name="NumaraDogrulaniyor">數確證</string>
+    <string name="Dogrulama">驗證</string>
+    <string name="NumaranizDogrulanamadi">您的號碼已驗證</string>
+    <string name="NumaranizDogrulandi">您的號碼已驗證</string>
+    <string name="SizeKendiHesabinizdanDogrulamaIcinSmsGonderilecek">短信發送給您確認自己的帳戶？採用你知道嗎？</string>
+    <string name="DisplayName">命名</string>
+    <string name="NickName">暱稱</string>
+    <string name="HomePhone">家庭電話</string>
+    <string name="MobilePhone">手機</string>
+    <string name="WorkPhone">工作電話</string>
+    <string name="HomeEmail">首頁郵箱</string>
+    <string name="WorkEmail">企業郵箱</string>
+    <string name="CompanyName">公司名稱</string>
+    <string name="JobTitle">職位</string>
+    <string name="ProfilePhoto">個人資料照片</string>
+    <string name="KisilerinizYedeklenecekOnayliyorMusunuz">要備份你的聯繫人。採用你知道嗎？</string>
+    <string name="DogumGunu">出生日期</string>
+    <string name="YilDonumu">週年</string>
+    <string name="OzelTarih">自定義日期</string>
+    <string name="KisilerinizYedekleniyor">人們正在加載</string>
+    <string name="EklerkenBasinaEkle">當增加每...增加</string>
+    <string name="YedeklerSorgulaniyor">備份受到質疑</string>
+    <string name="KisilerinizGeriYuklenecekOnayliyorMusunuz">您的聯繫方式將被還原，你贊成嗎？</string>
+    <string name="YedeklerGeriYukleniyor">無法恢復代用品</string>
+    <string name="LutfenYedekSeciniz">請選擇更換</string>
+    <string name="Basarili">成功</string>
+    <string name="Basarisiz">不成功</string>
+    <string name="NumaraPaylasimKulubu">共享俱樂部號碼</string>
+    <string name="BulamadigimNumaralarIcinArkaPlandaKontrolEt">控制當加在數字我能找到的背景</string>
+    <string name="BilgilerKaydedilsinMi">信息敏救嗎？</string>
+    <string name="BilgilerBasariylaKaydedildi">信息已成功保存</string>
+    <string name="InternetBaglantiniziAciniz">請打開您的Internet連接</string>
+
+</resources>
